@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34818.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act 3A Juntos", "Act 3A Juntos\Act 3A Juntos.csproj", "{F9FF267D-29F7-4D2E-BF67-6803CC5BB466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FF267D-29F7-4D2E-BF67-6803CC5BB466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FF267D-29F7-4D2E-BF67-6803CC5BB466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FF267D-29F7-4D2E-BF67-6803CC5BB466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FF267D-29F7-4D2E-BF67-6803CC5BB466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {899D0AA2-5790-4724-BB1A-5BC97E889A61}
+	EndGlobalSection
+EndGlobal
